@@ -1,0 +1,3 @@
+[submodule "power_bi_analyst"]
+	path = power_bi_analyst
+	url = https://github.com/julianazanelatto/power_bi_analyst.git
